@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+		<Annotation designname="DRAGON`S HEAD, 2 NO. 1"/>
+		<Annotation aliases="61639"/>
+	</Meta>
+	<Bricks>
+		<Brick designID="93173" refID="0">
+			<Part designID="93173" materials="24,21,5" refID="0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick designID="41141" refID="1">
+			<Part designID="41141" materials="21" refID="1">
+				<Bone refID="1" transformation="0,-1,0,1,0,0,0,0,1,-0.004762,0,0"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

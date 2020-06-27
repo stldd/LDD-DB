@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+		<Annotation designname="ROCK HEAD MAXI, ASSEMBLED"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="85198">
+			<Part refID="0" designID="85198" materials="21,0" decoration="0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="85197">
+			<Part refID="1" designID="85197" materials="21,0" decoration="0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

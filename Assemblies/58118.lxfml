@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="293"/>
+		<Annotation maingroupname="POWER FUNCTIONS"/>
+		<Annotation designname="FUNC EXT. Wire 50 CM."/>
+		<Annotation aliases="58118"/>
+		<Annotation wire=""/>
+		<PartMap part="58124" offset="0,0,0" relativeTo="58124" relativeToOffset="0,0,0"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="58124" uuid="a35a331f-fc76-4c82-95d1-1ac48612e77c">
+			<Part refID="0" designID="58124" materials="21,0" decoration="0">
+				<Bone refID="0" transformation="-1,0,0,0,1,0,0,0,-1,-1.99999964237,0,1.20000016689" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="58124" uuid="1ee18479-1a3c-4aeb-8e11-2b8a2455b73e">
+			<Part refID="1" designID="58124" materials="21,0" decoration="0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,1.99999952316,0,-1.2000002861" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

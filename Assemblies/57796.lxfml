@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="386"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS, OTHERS"/>
+		<Annotation designname="RELEASE HOUSING 6X2X2, ASS."/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="57029">
+			<Part refID="0" designID="57029" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="61280">
+			<Part refID="1" designID="61280" materials="21">
+				<Bone refID="1" transformation="0,0,-1,0,1,0,1,0,0,0.15000000596046448,0.79372799396514893,-0.80000001192092896"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

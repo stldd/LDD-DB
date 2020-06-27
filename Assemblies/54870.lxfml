@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML name="54870" versionMajor="4" versionMinor="0">
+  <Meta>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation maingroupid="292"/>
+    <Annotation maingroupname="ELECTRIC PARTS"/>
+    <Annotation designname="FX SOUND BRICK 2X4X2MOTORCYCLE"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group angle="0" ax="0" ay="1" az="0" refID="0" tx="0" ty="0" tz="0">
+        <Part angle="0" ax="0" ay="1" az="0" designID="55205" materialID="24" refID="0" tx="0" ty="0" tz="0">
+          <SubMaterial materialID="23" surfaceID="1"/>
+        </Part>
+        <Part angle="0" ax="0" ay="1" az="0" designID="55209" materialID="24" refID="1" tx="0" ty="0" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+
+</LXFML>

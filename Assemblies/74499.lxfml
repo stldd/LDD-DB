@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0" name="74499">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+		<Annotation designname="MONKEY"/>
+		<PartMap part="3818" offset="0,0,0" relativeTo="2550" relativeToOffset="1.1,0.35,0.402468" />
+		<PartMap part="3819" offset="0,0,0" relativeTo="2550" relativeToOffset="1.1,0.35,-0.402468" />
+		<PartMap part="3820" offset="0,0,0" relativeTo="3818" relativeToOffset="-0.21,-0.283,0.683" />
+		<PartMap part="3820" offset="0,0,0" relativeTo="3818" atIndex="1" relativeToOffset="-0.21,-0.283,0.683" />
+		<PartMap part="3820" offset="0,0,0" relativeTo="3819" relativeToOffset="0.21,-0.283,0.683" />
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="2550">
+			<Part refID="0" designID="2550" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="3819">
+			<Part refID="1" designID="3819" materials="21">
+				<Bone refID="1" transformation="0,0,-1,0.70710664987564087,0.70710664987564087,0,0.70710664987564087,-0.70710664987564087,0,1.1000000238418579,0.34997200965881348,-0.40240401029586792"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="3819">
+			<Part refID="2" designID="3819" materials="21">
+				<Bone refID="2" transformation="0,0,1,-0.70710676908493042,0.70710676908493042,0,-0.70710676908493042,-0.70710676908493042,0,0,0.34997200965881348,0.4024679958820343"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="3818">
+			<Part refID="3" designID="3818" materials="21">
+				<Bone refID="3" transformation="0,0,-1,0.70710676908493042,0.70710676908493042,0,0.70710676908493042,-0.70710676908493042,0,1.1000000238418579,0.34997200965881348,0.4024679958820343"/>
+			</Part>
+		</Brick>
+		<Brick refID="4" designID="3818">
+			<Part refID="4" designID="3818" materials="21">
+				<Bone refID="4" transformation="0,0,1,-0.7071068286895752,0.70710670948028564,0,-0.70710670948028564,-0.7071068286895752,0,0,0.34997200965881348,-0.40240401029586792"/>
+			</Part>
+		</Brick>
+		<Brick refID="5" designID="3820">
+			<Part refID="5" designID="3820" materials="21">
+				<Bone refID="5" transformation="0,0,-0.99999988079071045,0.70710670948028564,0.7071068286895752,0,0.7071068286895752,-0.70710670948028564,0,1.383037805557251,-0.33272674679756165,-0.61240392923355103"/>
+			</Part>
+		</Brick>
+		<Brick refID="6" designID="3820">
+			<Part refID="6" designID="3820" materials="21">
+				<Bone refID="6" transformation="0,0,-0.99999988079071045,0.70710659027099609,0.70710694789886475,0,0.70710694789886475,-0.70710659027099609,0,1.3829388618469238,-0.33282583951950073,0.61246800422668457"/>
+			</Part>
+		</Brick>
+		<Brick refID="7" designID="3820">
+			<Part refID="7" designID="3820" materials="21">
+				<Bone refID="7" transformation="0,0,0.99999988079071045,-0.70710659027099609,0.70710688829421997,0,-0.70710688829421997,-0.70710659027099609,0,-0.28293880820274353,-0.33282586932182312,-0.61240404844284058"/>
+			</Part>
+		</Brick>
+		<Brick refID="8" designID="3820">
+			<Part refID="8" designID="3820" materials="21">
+				<Bone refID="8" transformation="0,0,0.99999988079071045,-0.70710659027099609,0.70710694789886475,0,-0.70710694789886475,-0.70710659027099609,0,-0.28303787112236023,-0.3327268660068512,0.61246788501739502"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

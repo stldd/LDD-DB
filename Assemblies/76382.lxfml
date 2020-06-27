@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="FIGURE, UPPER AND LOWER PART MINI"/>
+		<Annotation designname="MINI UPPER PART"/>
+		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
+		<PartMap part="3820" offset="0,0,0" relativeTo="3818" relativeToOffset="-0.21,-0.282743,0.682879" />
+	</Meta>
+	<Scene>
+		<Model>
+			<Group angle="0" ax="0" ay="1" az="0" refID="0" tx="0" ty="0" tz="0">
+				<Part angle="0" ax="0" ay="1" az="0" designID="3814" materialID="1" refID="0" tx="0" ty="0" tz="0"/>
+			</Group>
+			<Group angle="10.5" ax="0" ay="0" az="-1" refID="1" tx="-0.22" ty="0.91" tz="0">
+				<Part angle="0" ax="0" ay="1" az="0" designID="3818" materialID="1" refID="1" tx="0" ty="0" tz="0"/>
+			</Group>
+			<Group angle="10.5" ax="0" ay="0" az="1" refID="2" tx="1.02" ty="0.91" tz="0">
+				<Part angle="0" ax="0" ay="1" az="0" designID="3819" materialID="1" refID="2" tx="0" ty="0" tz="0"/>
+			</Group>
+			<Group angle="-10" ax="0" ay="0" az="1" refID="3" tx="-0.478009" ty="0.670261" tz="0.682879">
+				<Part angle="0" ax="0" ay="1" az="0" designID="3820" materialID="199" refID="3" tx="0" ty="0" tz="0"/>
+			</Group>
+			<Group angle="10" ax="0" ay="0" az="1" refID="4" tx="1.27798" ty="0.670399" tz="0.682879">
+				<Part angle="0" ax="0" ay="1" az="0" designID="3820" materialID="199" refID="4" tx="0" ty="0" tz="0"/>
+			</Group>
+		</Model>
+	</Scene>
+</LXFML>

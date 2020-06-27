@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="92820"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="FEMALE, HIP WITH SKIRT 2, ASS."/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="92252">
+			<Part refID="0" designID="92252" materials="0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="92248">
+			<Part refID="1" designID="92248" materials="0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0.40000000596046448,2.3510727882385254,-0.090121641755104065"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

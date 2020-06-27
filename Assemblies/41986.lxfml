@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+		<Annotation designname="TROLL, ASSEMBLED"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="41982">
+			<Part refID="0" designID="41982" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="41984">
+			<Part refID="1" designID="41984" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0.099999912083148956,0.015509068965911865"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

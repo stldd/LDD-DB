@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="292"/>
+		<Annotation maingroupname="ELECTRIC PARTS"/>
+		<Annotation designname="FX LIGHT BRICK 2X3X1 1/3 RED"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="54931">
+			<Part refID="0" designID="54931" materials="24">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="91996">
+			<Part refID="1" designID="91996" materials="21,0,0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

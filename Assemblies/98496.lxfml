@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+		<Annotation designname="BEAR ASSEMBLY"/>
+		<Annotation aliases="98496;99964"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="98292">
+			<Part refID="0" designID="98292" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-0.049972999841,2.40000009537,-0.800000011921"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="98290">
+			<Part refID="1" designID="98290" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="98294">
+			<Part refID="2" designID="98294" materials="21">
+				<Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,2.5,2.20000004768,-0.800000011921"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

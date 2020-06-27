@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="73037"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="286"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="CRANE BLOCK 2X4X2"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="3752" uuid="bf6ba69d-0315-4b85-9afe-c996533a44bd">
+			<Part refID="0" designID="3752" materials="21">
+				<Bone refID="0" transformation="0,0,1,0,0.999999880791,0,-1,0,0,-0.799999952316,1.22000002861,-0.400000095367" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="3750" uuid="0796aac5-273c-4858-86a6-3812de6568f1">
+			<Part refID="1" designID="3750" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

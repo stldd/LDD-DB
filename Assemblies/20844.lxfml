@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="20844"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="292"/>
+		<Annotation maingroupname="ELECTRIC PARTS"/>
+		<Annotation designname="LPF2 SENSOR DETECT 2X4X1"/>
+		<Annotation wire=""/>          
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="23816" uuid="0c3b369c-361b-41e7-a15e-8e2da66df985">
+			<Part refID="0" designID="23816" materials="26,40,40,26" decoration="0,0,0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,6,0.359598904848,-0.40000000596" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="20842" uuid="91f7e418-6d92-47ce-9195-ff9abac49e07">
+			<Part refID="1" designID="20842" materials="194,1,26,26,26" decoration="0,0,0,0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

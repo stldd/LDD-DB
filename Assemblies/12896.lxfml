@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="12896"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINI UPPERPART/BASEBALL GLOVE"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="3819">
+			<Part refID="0" designID="3819" materials="26,24" decoration="0">
+				<Bone refID="0" transformation="0.983255028725,0.182234868407,0,-0.182234868407,0.983255028725,0,0,0,1,1.02469670773,0.897608935833,0.00309729576111" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="3814">
+			<Part refID="1" designID="3814" materials="24,0,0" decoration="0,0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="13543">
+			<Part refID="2" designID="13543" materials="24">
+				<Bone refID="2" transformation="-0.173648297787,0.984807729721,0,-0.984807729721,-0.173648297787,0,0,0,1,1.26703369617,0.617187440395,0.77272939682" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="3818">
+			<Part refID="3" designID="3818" materials="26,24" decoration="0">
+				<Bone refID="3" transformation="0.983255028725,-0.18223553896,0,0.18223553896,0.983255028725,0,0,0,1,-0.220000267029,0.910000383854,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="4" designID="3820">
+			<Part refID="4" designID="3820" materials="24">
+				<Bone refID="4" transformation="1.00000011921,0,0,0,1.00000011921,0,0,0,1,-0.474966645241,0.631805837154,0.670017123222" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

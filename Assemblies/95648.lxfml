@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="95648"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="392"/>
+		<Annotation maingroupname="ELECTRIC PARTS"/>
+		<Annotation designname="MS, EV3, TOUCH SENSOR"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="99386" uuid="c8151b98-0d6e-40da-a8aa-384147fb892c">
+			<Part refID="0" designID="99386" materials="21">
+				<Bone refID="0" transformation="0,0,-0.999999821186,0,0.999999880791,0,0.999999880791,0,0,4.03000020981,1.60000002384,-0.399999976158" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="74665" uuid="cabcaf1f-0c69-4918-a6d6-fb1d38cc99b1">
+			<Part refID="1" designID="74665" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

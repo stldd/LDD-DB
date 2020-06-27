@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="92821"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="HIP W/PANTS 1, ASS."/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="92253">
+			<Part refID="0" designID="92253" materials="0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="92248">
+			<Part refID="1" designID="92248" materials="0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0.40000000596046448,2.3511142730712891,-0.090190880000591278"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

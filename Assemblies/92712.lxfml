@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="286"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="CONVEYER BELT 4X16"/>
+		<Annotation aliases=""/>
+		<PartMap part="92716" offset="0,0,0" relativeTo="92715" relativeToOffset="0.399999588728,0.579999983311,0.400000095367" />
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="92716">
+			<Part refID="0" designID="92716" materials="106">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,11.6000003815,0.579999983311,0.400000095367"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="92715">
+			<Part refID="1" designID="92715" materials="199">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="92713">
+			<Part refID="2" designID="92713" materials="26">
+				<Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,0.40000000596,0.579999983311,-0.540000021458"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="92716">
+			<Part refID="3" designID="92716" materials="106">
+				<Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,0.399999588728,0.579999983311,0.400000095367"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

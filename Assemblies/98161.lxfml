@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="74176;74181;98161"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+		<Annotation designname="ANIMAL NO 5, HEAD"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="98055" uuid="d815a3e8-8a59-49af-a579-b2c92cccea6c">
+			<Part refID="0" designID="98055" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-1.60000002384,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="41141" uuid="aa3fe228-08e6-43e0-a2f3-85dd5ccb1d99">
+			<Part refID="1" designID="41141" materials="21">
+				<Bone refID="1" transformation="0,1,0,0,0,1,1,0,0,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

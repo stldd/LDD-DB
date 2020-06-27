@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+		<Annotation designname="ROCK MONS. MIDI ASS. 2"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="92285">
+			<Part refID="0" designID="92285" materials="21,0,0,0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="85059">
+			<Part refID="1" designID="85059" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,1.2026200294494629,4.788909912109375,-2.9662590026855469"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<EBT_SCENE_PREFS_LEGO_modelLOD item0="4"/>
+		<Environment name="Standard"/>
+		<Annotation aliases="24319"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINI UPPER PART NO.2"/>
+		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
+		<PartMap part="24074" offset="-0.15,0,0" relativeTo="3814" relativeToOffset="0.872512,0.882665,0" />
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="24074" uuid="d34e6ec8-b840-4c71-b842-beb00e038d74">
+			<Part refID="0" designID="24074" materials="194">
+				<Bone refID="0" transformation="0.983254790306,0.182235479355,0,0,0,1,0.182235509157,-0.983254909515,0,1.02000033855,0.91000020504,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="3814" uuid="54655604-c45a-47f8-b2b6-5e8cac6b1644">
+			<Part refID="1" designID="3814" materials="194,0,0" decoration="0,0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="24074" uuid="260c7dae-e2dd-4f87-aa08-7b39ce808abb">
+			<Part refID="2" designID="24074" materials="194">
+				<Bone refID="2" transformation="-0.983254790306,0.182235464454,0,0,0,-1,-0.182235509157,-0.983254790306,0,-0.220000207424,0.910000324249,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

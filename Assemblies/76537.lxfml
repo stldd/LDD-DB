@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+	<Meta>
+		<Annotation aliases="76537"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="386"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="SHOCK ABSORBER, EXTRA HARD"/>
+	</Meta>
+	<Scene>
+		<Model>
+			<Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+				<Part refID="0" designID="4255" materialID="24" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+				<Part refID="1" designID="4254" materialID="24" angle="180" ax="0" ay="0" az="1" tx="4.40000009537" ty="0" tz="0"/>
+			</Group>
+		</Model>
+	</Scene>
+</LXFML>

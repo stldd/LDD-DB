@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML name="75998" versionMajor="5" versionMinor="0">
+  <Meta>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+    <Annotation designname="HORSE, HEAD DIRECTED UPWARDS"/>
+  </Meta>
+  <Bricks>
+    <Brick designID="4493" refID="0">
+      <Part designID="4493" materials="21" refID="0">
+        <Bone angle="0" ax="0" ay="1" az="0" refID="0" tx="0" ty="0" tz="0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick designID="4492" refID="1">
+      <Part designID="4492" materials="21" refID="1">
+        <Bone angle="0" ax="0" ay="1" az="0" refID="1" tx="2.702" ty="3.102" tz="-0.4">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

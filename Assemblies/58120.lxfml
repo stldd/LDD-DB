@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="293"/>
+		<Annotation maingroupname="POWER FUNCTIONS"/>
+		<Annotation designname="FUNC. MOTOR Ø24X6M"/>
+		<Annotation aliases="58120"/>
+		<Annotation wire="59143,59146"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="59143" uuid="171aee58-0ea2-4db5-ae07-c96f764967e8">
+			<Part refID="0" designID="59143" materials="24,23,21" decoration="0,0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="59146" uuid="72fbfccb-d1df-4cd6-a8db-2c5d99739801">
+			<Part refID="1" designID="59146" materials="24">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="58124" uuid="3b2c0c57-8393-4a39-aee8-291881a16b9f">
+			<Part refID="2" designID="58124" materials="24,23" decoration="0">
+				<Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,4,-0.0140000004321,2.79999995232" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

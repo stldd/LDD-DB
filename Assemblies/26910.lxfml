@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="26910"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="292"/>
+		<Annotation maingroupname="ELECTRIC PARTS"/>
+		<Annotation designname="LPF2 HUB MOTOR 6X16X4 NO. 1"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="27205" uuid="3fd5ae13-713f-4b25-becb-81540354f49c">
+			<Part refID="0" designID="27205" materials="194">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,11.6000003815,1.20799994469,1.20000004768" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="27191" uuid="2abbbaaa-4a02-4f26-85fd-a99ce603e895">
+			<Part refID="1" designID="27191" materials="194">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="27205" uuid="3647660a-ef6c-4c30-8bc6-372a7fa19864">
+			<Part refID="2" designID="27205" materials="194">
+				<Bone refID="2" transformation="-1,0,0,0,0.999999880791,0,0,0,-1,11.6000003815,1.20799994469,-3.60000014305" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

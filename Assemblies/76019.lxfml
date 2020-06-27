@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="76019"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="387"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS, OTHERS"/>
+		<Annotation designname="TECHNIC COUPLING"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="32052" uuid="ef3faf34-7b9a-4a66-8247-615748fc1f67">
+			<Part refID="0" designID="32052" materials="194">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="32053" uuid="33f51e81-cb71-4576-8909-5c012de78114">
+			<Part refID="1" designID="32053" materials="194">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

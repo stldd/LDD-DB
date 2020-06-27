@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML name="73603" versionMajor="4" versionMinor="0">
+  <Meta>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation maingroupid="286"/>
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS, OTHERS"/>
+    <Annotation designname="TURNING ELEMENT 4X4"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group angle="0" ax="0" ay="1" az="0" refID="0" tx="0" ty="0" tz="0">
+        <Part angle="0" ax="0" ay="1" az="0" designID="3403" itemNos="340301" materialID="1" refID="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group angle="0" ax="0" ay="1" az="0" refID="1" tx="0" ty="0.31999999284744263" tz="-0.80000007152557373">
+        <Part angle="0" ax="0" ay="1" az="0" designID="3404" itemNos="340401" materialID="1" refID="1" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Joint type="hinge">
+        <GroupRef ax="0" ay="-1" az="0" groupRef="1" tx="1.2000000476837158" ty="0.25999999046325684" tz="-0.40000000596046448" zx="0" zy="0" zz="1"/>
+        <GroupRef ax="0" ay="-1" az="0" groupRef="0" tx="1.2000000476837158" ty="0.57999998331069946" tz="-1.2000000476837158" zx="0" zy="0" zz="1"/>
+      </Joint>
+    </Model>
+  </Scene>
+
+</LXFML>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="392"/>
+		<Annotation maingroupname="ELECTRIC PARTS"/>
+		<Annotation designname="SMALL MOTOR"/>
+		<Annotation aliases="99455"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="74043">
+			<Part refID="0" designID="74043" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="59158">
+			<Part refID="1" designID="59158" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,2.8,1.6,-1.2"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

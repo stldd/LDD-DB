@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="10039"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="286"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="PULL-BACK 4x8x2/3"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="10042" uuid="c8bf5e5f-49b6-4db1-816f-d851bb660240">
+			<Part refID="0" designID="10042" materials="26">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,1.99999976158,0.430001020432,0.600000739098" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="10040" uuid="2f65abbc-d494-418b-b580-907afdb58e3e">
+			<Part refID="1" designID="10040" materials="26">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-3.20000004768,0.640000998974,-0.799999237061" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

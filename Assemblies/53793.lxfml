@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML name="53793" versionMajor="4" versionMinor="0">
+
+  <Meta>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation maingroupid="392"/>
+    <Annotation maingroupname="ELECTRIC PARTS"/>
+    <Annotation designname="Push sensor"/>
+  </Meta>
+  <Cameras>
+    <Camera angle="41.977497100830078" ax="-0.51461446285247803" ay="0.84118497371673584" az="0.16607180237770081" distance="30.999998092651367" fieldOfView="80" refID="0" tx="20.7174072265625" ty="13.381217002868652" tz="22.865015029907227"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group angle="0" ax="0" ay="1" az="0" refID="0" tx="0" ty="0" tz="0">
+        <Part angle="0" ax="0" ay="1" az="0" designID="55967" materialID="24" refID="0" tx="0" ty="0" tz="0">
+          <SubMaterial materialID="23" surfaceID="1"/>
+          <SubMaterial materialID="21" surfaceID="2"/>
+        </Part>
+        <Part angle="0" ax="0" ay="1" az="0" designID="55968" materialID="24" refID="1" tx="0" ty="0" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+
+</LXFML>

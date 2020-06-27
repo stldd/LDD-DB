@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<PES>
+	<Materials>
+		<Material MatID="0" frictionModel="4" frictionCoefficient="0.7" slip="0.01" staticFrictionScale="1" stiffness="10000000" damping="10000000" adhesiveForce="0" restitution="0.4" restitutionThreshold="0.001">
+		</Material>
+		<Material MatID="1" frictionModel="4" frictionCoefficient="0.9" slip="0.0001" staticFrictionScale="3" stiffness="100000000" damping="100000000"  adhesiveForce="0" restitution="0.1" restitutionThreshold="0.001">
+			<OtherMaterial MatID="0" restitution="0.25" />	
+		</Material>
+		<Material MatID="2" frictionModel="4" frictionCoefficient="0.9" slip="0" staticFrictionScale="1" stiffness="1000000" damping="10"  adhesiveForce="0" restitution="2" restitutionThreshold="0.001">
+			<OtherMaterial MatID="0" />
+			<OtherMaterial MatID="1" restitution="1.1"/>	
+		</Material>
+		<Material MatID="3" frictionModel="4" frictionCoefficient="1" slip="0" staticFrictionScale="100" stiffness="1" damping="1000000"  adhesiveForce="100000000" restitution="0" restitutionThreshold="0.001">
+			<OtherMaterial MatID="0" adhesiveForce="1000" />
+			<OtherMaterial MatID="1"/>
+			<OtherMaterial MatID="2" adhesiveForce="0" restitution="0.5" restitutionThreshold="0.001"/>	
+		</Material>
+	</Materials>
+</PES>

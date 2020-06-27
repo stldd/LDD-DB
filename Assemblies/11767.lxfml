@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="11767"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="286"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="FLYWHEEL ASSEMBLY Ø4,85"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="11140" uuid="e60ad22e-cc32-4b82-816c-b555cb97ce9b">
+			<Part refID="0" designID="11140" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,3.20000004768,0.239999994636,0.599999964237" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="11125" uuid="2d8d61f5-c0fb-45af-86f1-6d213e7ce25b">
+			<Part refID="1" designID="11125" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

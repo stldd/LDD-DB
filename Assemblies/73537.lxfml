@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML name="73537" versionMajor="4" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="272"/>
+		<Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES"/>
+		<Annotation designname="MINI BICYCLE"/>
+		<PartMap part="64248" offset="0,0,0" relativeTo="4719" relativeToOffset="0,-1.15,-0.265" />
+	</Meta>
+	<Scene>
+		<Model>
+		<Group angle="0" ax="0" ay="1" az="0" refID="0" tx="0" ty="0" tz="0">
+			<Part angle="0" ax="0" ay="1" az="0" designID="4719" materialID="24" refID="0" tx="0" ty="0" tz="0"/>
+		</Group>
+		<Group angle="90" ax="0" ay="1" az="0" refID="1" tx="0" ty="-1.15" tz="-0.265">
+			<Part angle="0" ax="0" ay="1" az="0" designID="64248" materialID="24" refID="1" tx="0" ty="0" tz="0">
+				<SubMaterial materialID="23" surfaceID="1"/>
+			</Part>
+		</Group>
+		<Group angle="90" ax="0" ay="1" az="0" refID="2" tx="3.45" ty="-1.15" tz="-0.265">
+			<Part angle="0" ax="0" ay="1" az="0" designID="64248" materialID="24" refID="2" tx="0" ty="0" tz="0">
+				<SubMaterial materialID="23" surfaceID="1"/>
+			</Part>
+		</Group>
+		</Model>
+	</Scene>
+</LXFML>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="252"/>
+		<Annotation maingroupname="FIGURE, ACCESSORIES FOR THE UPPER AND LOWER PART"/>
+		<Annotation designname="MINI ARMOUR W/ARMS"/>
+		<Annotation aliases="99415"/>
+		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
+		<PartMap part="3820" offset="0,0,0" relativeTo="3818" relativeToOffset="-0.21,-0.282743,0.682879" />
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="3818">
+			<Part refID="0" designID="3818" materials="21">
+				<Bone refID="0" transformation="0.983254909515,-0.182235509157,0,0.182235509157,0.983254909515,0,0,0,1,-0.213928237557,0.622094333172,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="98127">
+			<Part refID="1" designID="98127" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="3819">
+			<Part refID="2" designID="3819" materials="21">
+				<Bone refID="2" transformation="0.98325496912,0.182235196233,0,-0.182235196233,0.98325496912,0,0,0,1,1.01392829418,0.622094273567,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="3820">
+			<Part refID="3" designID="3820" materials="21">
+				<Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,-0.471937566996,0.382355332375,0.6828789711" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="4" designID="3820">
+			<Part refID="4" designID="3820" materials="21">
+				<Bone refID="4" transformation="1,0,0,0,1,0,0,0,1,1.27191197872,0.38249284029,0.682879030704" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

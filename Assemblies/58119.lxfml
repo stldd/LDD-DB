@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="58119"/>
+		<Annotation platformid="300"/>
+		<Annotation platformname="TECHNIC"/>
+		<Annotation maingroupid="393"/>
+		<Annotation maingroupname="POWER FUNCTIONS"/>
+		<Annotation designname="Batterybox 4X11X7"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="59510" uuid="4d015968-6e2d-4cdc-9b4a-2a924aabbc59">
+			<Part refID="0" designID="59510" materials="24,23,21,0" decoration="0,0,0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="59165" uuid="9d20aee3-b265-495f-99bd-c0a7a30f68e7">
+			<Part refID="1" designID="59165" materials="24">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,5.19999980927,4.80000019073,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

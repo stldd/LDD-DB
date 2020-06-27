@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="10888"/>
+		<Annotation platformid="100"/>
+		<Annotation platformname="DUPLO"/>
+		<Annotation maingroupid="186"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+		<Annotation designname="DUPLO TURN BRICK 2X2"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="10565" uuid="b6c16dc9-2035-47b4-952f-ac31ac2883cf">
+			<Part refID="0" designID="10565" materials="194">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0.790907025337,0.944569945335,-0.791024029255" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="10564" uuid="d9cbfc7b-3ffa-4c5f-a9c0-ccdb6420d54a">
+			<Part refID="1" designID="10564" materials="194">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

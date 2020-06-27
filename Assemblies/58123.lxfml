@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="292"/>
+		<Annotation maingroupname="ELECTRIC PARTS"/>
+		<Annotation designname="FUNC. IR/RX 2 OUT. 4X4X4"/>
+		<Annotation aliases="58123"/>
+		<Annotation wire="58148,58150"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="58148" uuid="c5cb5920-cb7f-4776-a564-b1791f2b677e">
+			<Part refID="0" designID="58148" materials="24,23,21,5,1,26" decoration="0,0,0,0,0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="58150" uuid="014e6bbc-5254-4ee6-8470-58f3a9c8f990">
+			<Part refID="1" designID="58150" materials="24">
+				<Bone refID="1" transformation="0,0,1,0,1,0,-1,0,0,-0.40000000596,2.17000007629,-1.20000004768" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="58124" uuid="963ed2e1-3b4b-428d-a214-2b67ccd98dbe">
+			<Part refID="2" designID="58124" materials="24,23" decoration="0">
+				<Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,4.80000019073,0,2.79999995232" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

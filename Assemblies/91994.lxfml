@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="274"/>
+		<Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
+		<Annotation designname="TRAIN BUFFER 2"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="91968">
+			<Part refID="0" designID="91968" materials="24,21" decoration="0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="64417">
+			<Part refID="1" designID="64417" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-1.9999970197677612,0.31999999284744263,-0.40000000596046448"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

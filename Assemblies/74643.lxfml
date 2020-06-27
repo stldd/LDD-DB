@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="287"/>
+		<Annotation maingroupname="FUNCTIONAL ELEMENTS, OTHERS"/>
+		<Annotation designname="TECHNIC TURN TABLE"/>
+		<Annotation aliases="74643"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="2855">
+			<Part refID="0" designID="2855" materials="21">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0.319999992847,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="2856">
+			<Part refID="1" designID="2856" materials="21">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>
