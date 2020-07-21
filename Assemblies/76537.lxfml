@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<LXFML versionMajor="4" versionMinor="0">
+<!--
+Updated by Equilibrium
+-->
+<LXFML versionMajor="5" versionMinor="0">
 	<Meta>
-		<Annotation aliases="76537"/>
+		<Annotation aliases="76537;73129;76138;41838 "/>
 		<Annotation platformid="300"/>
 		<Annotation platformname="TECHNIC"/>
 		<Annotation maingroupid="386"/>
 		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
-		<Annotation designname="SHOCK ABSORBER, EXTRA HARD"/>
+		<Annotation designname="SMALL SHOCK ABSORBER"/>
+    <Annotation wire=""/>
 	</Meta>
-	<Scene>
-		<Model>
-			<Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
-				<Part refID="0" designID="4255" materialID="24" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
-				<Part refID="1" designID="4254" materialID="24" angle="180" ax="0" ay="0" az="1" tx="4.40000009537" ty="0" tz="0"/>
-			</Group>
-		</Model>
-	</Scene>
+	<Bricks>
+		<Brick refID="0" designID="4255" uuid="74ea4801-5530-40a1-b5d1-f923c416263f">
+			<Part refID="0" designID="4255" materials="24">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="4254" uuid="8d3eb9c3-a09f-4cb2-969e-02fc57346a9f">
+			<Part refID="1" designID="4254" materials="24">
+				<Bone refID="1" transformation="-1,0,0,0,-1,0,0,0,1,4.4,0,0" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
 </LXFML>

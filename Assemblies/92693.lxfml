@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
 <LXFML versionMajor="5" versionMinor="0">
 	<Meta>
 		<Annotation aliases="92693"/>
@@ -6,7 +9,8 @@
 		<Annotation platformname="TECHNIC"/>
 		<Annotation maingroupid="386"/>
 		<Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
-		<Annotation designname="LINEAR AKTUATOR 7-9 M"/>
+		<Annotation designname="LINEAR ACTUATOR 7-9 M"/>
+    <Annotation wire="92695,92694"/>
 	</Meta>
 	<Bricks>
 		<Brick refID="0" designID="92695" uuid="2dec0d6f-f48b-49a0-9408-6c88be29ac88">
