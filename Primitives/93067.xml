@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
-    <Annotation aliases="93067"/>
-    <Annotation designname="HEAD W/UNDERJAW W/Ø3,2 SHAFT"/>
-    <Annotation maingroupid="245"/>
-    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART"/>
-    <Annotation platformid="200"/>
-    <Annotation platformname="SYSTEM"/>
-    <Annotation version="6"/>
+    <Annotation aliases="93067" />
+    <Annotation designname="HEAD W/UNDERJAW W/Ø3,2 SHAFT" />
+    <Annotation maingroupid="245" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
   </Annotations>
   <Collision>
     <Box sX="0.49" sY="0.183578" sZ="0.62267" angle="27.9694" ax="1" ay="0" az="0" tx="0" ty="0.063285" tz="0.903415"/>
@@ -34,11 +34,11 @@
     <Axel type="7" length="0.339867" requireGrabbing="1" startCapped="1" endCapped="1" angle="56.5" ax="0" ay="0" az="1" tx="-0.8854" ty="0.515658" tz="0.000153"/>
     <Fixed type="30" axes="2" angle="0" ax="0" ay="0" az="1" tx="-0.3" ty="0" tz="0"/>
   </Connectivity>
-  <PhysicsAttributes inertiaTensor="4.18718,0,0,0,3.29215,0,0,0,4.04077" centerOfMass="-0.000379,-0.180217,0.175421" mass="2.69000005722" frictionType="0"/>
   <Bounding>
-    <AABB minX="-1.32481" minY="-1.83922" minZ="-1.20929" maxX="1.32406" maxY="1.47879" maxZ="1.56013"/>
+    <AABB minX="-1.324815" minY="-1.839223" minZ="-1.209285" maxX="1.324057" maxY="1.478789" maxZ="1.560127" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-1.32481" minY="-1.83922" minZ="-1.20929" maxX="1.32406" maxY="1.47879" maxZ="1.56013"/>
+    <AABB minX="-1.324815" minY="-1.839223" minZ="-1.209285" maxX="1.324057" maxY="1.478789" maxZ="1.560127" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
 </LEGOPrimitive>
