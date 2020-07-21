@@ -35,7 +35,9 @@
     <Box sX="0.262305" sY="0.075217" sZ="0.05225" angle="90" ax="0" ay="0" az="-1" tx="0.284035" ty="0" tz="-0.29225"/>
   </Collision>
   <Connectivity>
-    <Axel type="4" length="0.32" grabbing="0" startCapped="0" endCapped="1" angle="98.42105" ax="-0.862856" ay="0.357407" az="-0.357407" tx="0" ty="0" tz="0"/>
+    <Fixed type="39" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.312"/>
+    <Hinge type="86" oriented="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="-0.21"/>
+    <Fixed type="39" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.312"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.136534,0,0,0,0.13138,0,0,0,0.203018" centerOfMass="0,0,-0.312" mass="1" frictionType="0"/>
   <Bounding>

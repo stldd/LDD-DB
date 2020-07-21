@@ -1,13 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Chris Dee [cwdee]
+Editted for LDD by Jester94
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
-    <Annotation aliases="28925"/>
-    <Annotation designname="BOAT 8X16X3"/>
-    <Annotation maingroupid="273"/>
-    <Annotation maingroupname="TRANSPORTATION MEANS, SHIPS"/>
-    <Annotation platformid="200"/>
-    <Annotation platformname="SYSTEM"/>
-    <Annotation version="1"/>
+    <Annotation aliases="28925" />
+    <Annotation designname="BOAT 8X16X3" />
+    <Annotation maingroupid="273" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, SHIPS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
   </Annotations>
   <Collision>
     <Box sX="2.54" sY="0.0738" sZ="3.34" angle="0" ax="0" ay="1" az="0" tx="-2.8" ty="-1.9838" tz="-3.6"/>
@@ -112,11 +117,11 @@
       18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
     </Custom2DField>
   </Connectivity>
-  <PhysicsAttributes inertiaTensor="14.41055,0,0,0,17.06667,0,0,0,4.17055" centerOfMass="-2.8,-1.3292,-6" mass="1" frictionType="0"/>
   <Bounding>
-    <AABB minX="-6" minY="-2.8364" minZ="-12.4" maxX="0.4" maxY="0.178" maxZ="0.400001"/>
+    <AABB minX="-6" minY="-2.836401" minZ="-12.4" maxX="0.4" maxY="0.178002" maxZ="0.4" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-6" minY="-2.8364" minZ="-12.4" maxX="0.4" maxY="0.178" maxZ="0.4"/>
+    <AABB minX="-6" minY="-2.836401" minZ="-12.4" maxX="0.4" maxY="0.178002" maxZ="0.4" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
 </LEGOPrimitive>

@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="18938"/>
     <Annotation designname="UPPER PART FOR TURNTABLE Z60"/>
-    <Annotation maingroupid="386"/>
-    <Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+    <Annotation maingroupid="388"/>
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS, GEAR WHEELS AND RACKS"/>
     <Annotation platformid="300"/>
     <Annotation platformname="TECHNIC"/>
     <Annotation version="1"/>

@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="18450"/>
@@ -20,8 +23,8 @@
     <Box sX="1.46782" sY="0.644815" sZ="2.0377" angle="45" ax="0" ay="0" az="-1" tx="-2.17877" ty="-2.16403" tz="-0.796051"/>
   </Collision>
   <Connectivity>
-    <Fixed type="14" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.7"/>
-    <Fixed type="14" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.7"/>
+    <Fixed type="14" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
+    <Fixed type="14" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="7.43773,0,0,0,7.43773,0,0,0,11.60345" centerOfMass="0,0,-0.80002" mass="1" frictionType="0"/>
   <Bounding>

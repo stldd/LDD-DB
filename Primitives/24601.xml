@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
-    <Annotation aliases="24601"/>
-    <Annotation designname="CREATURE, NO. 27"/>
-    <Annotation maingroupid="242"/>
-    <Annotation maingroupname="FIGURE, HEADS AND MASKS"/>
-    <Annotation platformid="200"/>
-    <Annotation platformname="SYSTEM"/>
-    <Annotation version="1"/>
+    <Annotation aliases="24601" />
+    <Annotation designname="CREATURE, NO. 27" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
   </Annotations>
   <Collision>
     <Box sX="0.27301" sY="0.042333" sZ="0.27301" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.14381" tz="0"/>
@@ -30,11 +30,11 @@
     </Custom2DField>
     <Hinge type="200" oriented="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
   </Connectivity>
-  <PhysicsAttributes inertiaTensor="0.306567,0,0,0,0.372725,0,0,0,0.331192" centerOfMass="0.000203,0.630512,0.02939" mass="1" frictionType="0"/>
   <Bounding>
-    <AABB minX="-0.771823" minY="0" minZ="-0.693211" maxX="0.77223" maxY="1.26103" maxZ="0.75199"/>
+    <AABB minX="-0.771823" minY="-4E-06" minZ="-0.693211" maxX="0.77223" maxY="1.261029" maxZ="0.75199" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.771823" minY="0" minZ="-0.693211" maxX="0.77223" maxY="1.26103" maxZ="0.75199"/>
+    <AABB minX="-0.771823" minY="-4E-06" minZ="-0.693211" maxX="0.77223" maxY="1.261029" maxZ="0.75199" />
   </GeometryBounding>
+  <Decoration faces="5" subMaterialRedirectLookupTable="0,1,2,3,4" />
 </LEGOPrimitive>

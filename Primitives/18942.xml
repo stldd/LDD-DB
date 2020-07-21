@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="18942"/>
@@ -115,6 +118,7 @@
     <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="1.6" ty="0" tz="0"/>
     <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="8.8" ty="0" tz="0"/>
     <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="10.4" ty="0" tz="0"/>
+    <Slider type="29" length="1.17" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="1" tx="10.77" ty="-0.37" tz="-0.4"/>
     <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="9.2" ty="-0.4" tz="0">
       22:1:1,22:2:1,22:1:1,
       22:2:1,16:4:64,22:2:1,

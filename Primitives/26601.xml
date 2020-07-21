@@ -34,9 +34,9 @@
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.500667,0,0,0,0.96,0,0,0,0.500667" centerOfMass="0.8,0.248,0.8" mass="1" frictionType="0"/>
   <Bounding>
-    <AABB minX="-0.4" minY="-0.000999" minZ="-0.4" maxX="2" maxY="0.497" maxZ="2"/>
+    <AABB minX="-0.4" minY="-0.000999" minZ="-0.4" maxX="1.2" maxY="0.497" maxZ="1.2"/>
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.4" minY="-0.000999" minZ="-0.4" maxX="2" maxY="0.497" maxZ="2"/>
+    <AABB minX="-0.4" minY="-0.000999" minZ="-0.4" maxX="1.2" maxY="0.497" maxZ="1.2"/>
   </GeometryBounding>
 </LEGOPrimitive>

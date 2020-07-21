@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
-    <Annotation aliases="20461"/>
-    <Annotation designname="MINI LEG RIGHT NO. 2, LOWER PART"/>
-    <Annotation maingroupid="240"/>
-    <Annotation maingroupname="MINI FIGURE"/>
-    <Annotation platformid="200"/>
-    <Annotation platformname="SYSTEM"/>
-    <Annotation version="1"/>
+    <Annotation aliases="20461" />
+    <Annotation designname="MINI LEG RIGHT NO. 2, LOWER PART" />
+    <Annotation maingroupid="240" />
+    <Annotation maingroupname="MINI FIGURE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
   </Annotations>
   <Collision>
     <Box sX="0.34465" sY="0.086" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.00085" ty="0.16" tz="0.354"/>
@@ -35,12 +35,11 @@
     <Fixed type="55" axes="2" angle="90" ax="0" ay="0" az="1" tx="0.3555" ty="0.32" tz="-0.35"/>
     <Fixed type="120" axes="2" angle="0" ax="0" ay="0" az="1" tx="0" ty="0.32" tz="0.05"/>
   </Connectivity>
-  <PhysicsAttributes inertiaTensor="0.266667,0,0,0,0.106667,0,0,0,0.266667" centerOfMass="0,0.8,0.05" mass="1" frictionType="0"/>
-  <Decoration faces="5" subMaterialRedirectLookupTable="0,1,0,0,0"/>
   <Bounding>
-    <AABB minX="-0.4" minY="0" minZ="-0.35" maxX="0.4" maxY="1.6" maxZ="0.45"/>
+    <AABB minX="-0.373" minY="-0" minZ="-0.35" maxX="0.3555" maxY="1.475" maxZ="0.45" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.373" minY="0" minZ="-0.35" maxX="0.3555" maxY="1.475" maxZ="0.45"/>
+    <AABB minX="-0.373" minY="-0" minZ="-0.35" maxX="0.3555" maxY="1.475" maxZ="0.45" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
 </LEGOPrimitive>

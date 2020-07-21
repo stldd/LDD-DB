@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
-    <Annotation aliases="28501"/>
-    <Annotation designname="MINI HEAD, NO. 2054"/>
-    <Annotation maingroupid="242"/>
-    <Annotation maingroupname="FIGURE, HEADS AND MASKS"/>
-    <Annotation platformid="200"/>
-    <Annotation platformname="SYSTEM"/>
-    <Annotation version="1"/>
+    <Annotation aliases="28501" />
+    <Annotation designname="MINI HEAD, NO. 2054" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
   </Annotations>
   <Collision>
     <Box sX="0.345134" sY="0.113387" sZ="0.345134" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.123387" tz="0"/>
@@ -29,11 +29,11 @@
       29:0,29:0,29:0
     </Custom2DField>
   </Connectivity>
-  <PhysicsAttributes inertiaTensor="0.337819,0,0,0,0.326516,0,0,0,0.418832" centerOfMass="-0.001795,0.048536,-0.033295" mass="1" frictionType="0"/>
   <Bounding>
-    <AABB minX="-0.783648" minY="-0.754709" minZ="-0.640136" maxX="0.780057" maxY="0.85178" maxZ="0.573545"/>
+    <AABB minX="-0.783648" minY="-0.754709" minZ="-0.640136" maxX="0.780057" maxY="0.85178" maxZ="0.559138" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.783648" minY="-0.754709" minZ="-0.640136" maxX="0.780057" maxY="0.85178" maxZ="0.559138"/>
+    <AABB minX="-0.783648" minY="-0.754709" minZ="-0.640136" maxX="0.780057" maxY="0.85178" maxZ="0.559138" />
   </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
 </LEGOPrimitive>

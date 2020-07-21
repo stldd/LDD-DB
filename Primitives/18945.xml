@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="18945"/>
     <Annotation designname="PANEL WITH ANGLE 5X11"/>
-    <Annotation maingroupid="311"/>
+    <Annotation maingroupid="312"/>
     <Annotation maingroupname="BEAMS, SPECIAL"/>
     <Annotation platformid="300"/>
     <Annotation platformname="TECHNIC"/>
