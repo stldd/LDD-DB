@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="14720"/>
-    <Annotation designname="BEAM I -FRAME 3X5 90 DEGR. HOLE Ø4.85"/>
-    <Annotation maingroupid="311"/>
+    <Annotation designname="BEAM I - FRAME 3X5 90 DEGR. HOLE Ø4.85"/>
+    <Annotation maingroupid="310"/>
     <Annotation maingroupname="BEAMS, SPECIAL"/>
     <Annotation platformid="300"/>
     <Annotation platformname="TECHNIC"/>

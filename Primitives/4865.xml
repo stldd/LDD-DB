@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
-    <Annotation aliases="4865;15714;30010"/>
+    <Annotation aliases="4865;15714"/>
     <Annotation designname="WALL ELEMENT 1X2X1"/>
     <Annotation maingroupid="225"/>
     <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>

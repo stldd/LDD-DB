@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="2680"/>
     <Annotation designname="COLUMN 5M"/>
-    <Annotation maingroupid="216"/>
-    <Annotation maingroupname="PLATES, SPECIAL"/>
+    <Annotation maingroupid="274"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
     <Annotation platformid="200"/>
     <Annotation platformname="SYSTEM"/>
     <Annotation version="4"/>
