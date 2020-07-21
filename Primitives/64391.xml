@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="64391"/>
@@ -9,7 +12,7 @@
     <Annotation platformname="TECHNIC"/>
     <Annotation version="12"/>
   </Annotations>
-  <DefaultOrientation angle="109.99999" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  <DefaultOrientation angle="180" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
   <Collision>
     <Box sX="0.79" sY="0.35" sZ="0.02" angle="180" ax="0" ay="1" az="0" tx="0.8" ty="0.36" tz="-0.34"/>
     <Box sX="0.39" sY="0.39" sZ="0.02" angle="90" ax="0" ay="-1" az="0" tx="-0.34" ty="0.4" tz="0.4"/>

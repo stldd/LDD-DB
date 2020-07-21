@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="56908"/>
-    <Annotation designname="RIM WIDE 43,2X26 W 6 HOL.Ø 4.8"/>
+    <Annotation designname="RIM WIDE 43,2X26 W 6 HOL. Ø4.8"/>
     <Annotation maingroupid="366"/>
     <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS"/>
     <Annotation platformid="300"/>
@@ -45,8 +48,8 @@
     <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="-0.57735" az="0.57735" tx="0" ty="-0.8" tz="-0.4"/>
     <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="158.90941" ax="-0.186157" ay="-0.694747" az="0.694747" tx="0.69282" ty="-0.4" tz="-0.4"/>
     <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="158.90941" ax="-0.186157" ay="0.694747" az="-0.694747" tx="0.69282" ty="0.4" tz="-0.4"/>
-    <Fixed type="15" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.7"/>
-    <Fixed type="15" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.7"/>
+    <Fixed type="15" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
+    <Fixed type="15" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="13.86496,0,0,0,13.871,0,0,0,20.71215" centerOfMass="-0.000448,2.6E-005,-0.85745" mass="9.32999992371" frictionType="0"/>
   <Bounding>

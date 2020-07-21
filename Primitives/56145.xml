@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Marc Klein [marckl]
+Editted for LDD by Jester94
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="56145"/>

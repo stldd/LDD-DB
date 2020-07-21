@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="41896"/>
@@ -56,8 +59,8 @@
     <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-0.692847" ty="0.399974" tz="-0.4"/>
     <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="-0.8" tz="-0.4"/>
     <Axel type="4" length="1.6" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
-    <Fixed type="15" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.7"/>
-    <Fixed type="15" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.7"/>
+    <Fixed type="15" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
+    <Fixed type="15" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="14.77899,0,0,0,14.78108,0,0,0,22.73349" centerOfMass="9.1E-005,-0.000915,-0.846608" mass="9.63199996948" frictionType="0"/>
   <Bounding>

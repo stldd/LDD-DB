@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Updated by Equilibrium
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="45982"/>
-    <Annotation designname="TYRE BALOON WIDE Ø 81,6 X 38"/>
+    <Annotation designname="TYRE BALOON WIDE Ø81,6 X 38"/>
     <Annotation maingroupid="366"/>
     <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS"/>
     <Annotation platformid="300"/>
@@ -24,8 +27,8 @@
     <Box sX="1.02207" sY="0.625167" sZ="1.89" angle="90" ax="0" ay="0" az="1" tx="-2.91075" ty="0" tz="-0.8"/>
   </Collision>
   <Connectivity>
-    <Fixed type="14" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.7"/>
-    <Fixed type="14" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.7"/>
+    <Fixed type="14" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
+    <Fixed type="14" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="268.39624,0,0,0,265.18436,0,0,0,427.58765" centerOfMass="0.002381,0.000422,-0.810331" mass="31.0900001526" frictionType="1"/>
   <Bounding>
